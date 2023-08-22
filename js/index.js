@@ -1,4 +1,4 @@
-const board = JXG.JSXGraph.initBoard(box, {
+board = JXG.JSXGraph.initBoard(box, {
     boundingbox: [-20, 20, 20, -20],
     axis: true
 });
